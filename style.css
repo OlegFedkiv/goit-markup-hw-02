@@ -134,14 +134,14 @@ a {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.title-imeges-banking-app {
+.title-imeges-our-portfolio {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.paragraph-imeges-app {
+.paragraph-imeges-our-portfolio {
   font-size: 16px;
   line-height: 1.2;
   letter-spacing: 0.02em;
@@ -154,11 +154,6 @@ a {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.paragraph-imeges-our-portfolio {
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-}
 
 /* .................../Section 4.............. */
 
@@ -170,7 +165,8 @@ a {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: height 0.03em;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4b5ae5;
 }
