@@ -48,17 +48,20 @@ a {
 .contacts-link:focus {
   color: #404bbf;
 }
-.page-section-1 {
+
+/*........... Section 1............ */
+
+.page-section-one {
   background-color: #2e2f42;
 }
-.title-section-1 {
+.title-section-one {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.button-section-1 {
+.button-section-one {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -67,27 +70,38 @@ a {
   letter-spacing: 0.04em;
   color: #ffffff;
 }
-.button-section-1:hover,
-.button-section-1:focus {
+.button-section-one:hover,
+.button-section-one:focus {
   background-color: #404bbf;
   cursor: pointer;
 }
-.title-section-2 {
+/*............... /Section 1........... */
+
+/* ................Section 2 .............. */
+
+.title-section-two {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.paragraph-section-2 {
+.paragraph-section-two {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
-.page-section-3 {
+
+/* .........../Section 2.............. */
+
+/* ..............Section 3............ */
+.page-section-three {
   background-color: #f4f4fd;
 }
-.title-section-3 {
+.item-section-three {
+  background-color: #ffffff;
+}
+.title-section-three {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -114,7 +128,11 @@ a {
   letter-spacing: 0.02em;
 }
 
-.title-section-4 {
+/* ............/Section 3 ........... */
+
+/*..............Section 4.............. */
+
+.title-section-four {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -157,14 +175,18 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.page-footer-1 {
+
+/* .................../Section 4.............. */
+
+/* ....................Footer.............. */
+.page-footer-one {
   background-color: #2e2f42;
 }
 .link-page-footer {
-  font-family: "Releway", sans-serif;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.17;
+  line: height 0.03em;
   text-transform: uppercase;
   color: #4b5ae5;
 }
@@ -176,3 +198,4 @@ a {
   color: #f4f4fd;
   letter-spacing: 0.02em;
 }
+/* .............../Footer................ */
