@@ -109,20 +109,14 @@ a {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.title-imeges-mark-guerrero,
-.title-imeges-tom-ford,
-.title-imeges-camila-garcia,
-.title-imeges-daniel-wilson {
+.title-imeges-our-team {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.paragraph-imeges-product-designer,
-.paragraph-imeges-frontend-developer,
-.paragraph-imeges-marketing,
-.paragraph-imeges-ul-designe {
+.paragraph-imeges-our-team {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -153,24 +147,14 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.title-imeges-banking-app,
-.title-imeges-cashless-payment,
-.title-imeges-meditation-app,
-.title-imeges-taxi-service,
-.title-imeges-screen-illustrations,
-.title-imeges-online-courses {
+.title-imeges-our-portfolio {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.paragraph-imeges-app,
-.paragraph-imeges-marketing,
-.paragraph-imeges-app,
-.paragraph-imeges-marketing,
-.paragraph-imeges-design,
-.paragraph-imeges-marketing {
+.paragraph-imeges-our-portfolio {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
