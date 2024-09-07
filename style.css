@@ -34,3 +34,115 @@ a {
 .menu-link-iteam:focus {
   color: #404bbf;
 }
+.contacts {
+  font-style: normal;
+}
+.contacts-link {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.contacts-link:hover {
+  color: #404bbf;
+}
+.contacts-link:focus {
+  color: #404bbf;
+}
+.page-section-1 {
+  background-color: #2e2f42;
+}
+.title-section-1 {
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+}
+.button-section-1 {
+  background-color: #4d5ae5;
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+}
+.button-section-1:hover,
+.button-section-1:focus {
+  color: #404bbf;
+  cursor: pointer;
+}
+.paragraph-section-2 {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.page-section-3 {
+  background-color: #f4f4fd;
+}
+.title-section-3 {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.title-section-4 {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
+.title-imeges-banking-app {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.paragraph-imeges-app {
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.title-imeges-banking-app,
+.title-imeges-cashless-payment,
+.title-imeges-meditation-app,
+.title-imeges-taxi-service,
+.title-imeges-screen-illustrations,
+.title-imeges-online-courses {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.paragraph-imeges-app,
+.paragraph-imeges-marketing,
+.paragraph-imeges-app,
+.paragraph-imeges-marketing,
+.paragraph-imeges-design,
+.paragraph-imeges-marketing {
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+.page-footer-1 {
+  background-color: #2e2f42;
+}
+.link-page-footer {
+  font-family: "Releway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  text-transform: uppercase;
+  color: #4b5ae5;
+}
+.page-footer-span {
+  color: #f4f4fd;
+}
+.paragraph-page-footer {
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
