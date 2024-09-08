@@ -124,8 +124,7 @@ a {
 
 /* ............/Section 3 ........... */
 
-/*..............Section 4.............. */
-
+/* ..............Section 4.............. */
 .title-section-four {
   font-size: 36px;
   line-height: 1.11;
@@ -147,7 +146,7 @@ a {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.title-imeges-our-portfolio {
+.list-section-four {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -168,7 +167,7 @@ a {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4b5ae5;
+  color: #4d5ae5;
 }
 .page-footer-span {
   color: #f4f4fd;
